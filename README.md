@@ -1,4 +1,4 @@
-# Israel&Parnas_2025
+# Israel&Parnas/2025
 Raw data of the manuscript entitled: "A New Model System for Studying Developmental Neuronal Remodeling and Its Relation to Behavior in Drosophila" by Israel and Parnas, 2025.
 
 This repository includes raw data used in the manuscript. 
